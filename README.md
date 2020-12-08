@@ -1,5 +1,5 @@
 # scrnahelper
-I've written a few functions that help me look through scRNA-seq data so I've included them here!
+I've written a few functions that help me look through scRNA-seq data while working with Seurat!
 
 ## How to install
 The easiest way to install the scrnahelper package is using the devtools package (which you can install using the following):
